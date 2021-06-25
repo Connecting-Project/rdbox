@@ -34,7 +34,7 @@ function Login() {
             <Background style={{backgroundImage : "url("+loginbg+")"}}>
                     <KaKaoBtn
                         //styled component 통해 style을 입혀 줄 예정 
-                        jsKey={'abaf03ee963420f8f7bdabdf39737811'}
+                        jsKey={'3d1f0815253fdaeb217794ddee944ab1'}
                         //카카오에서 할당받은 jsKey를 입력
                         buttonText='카카오 로그인'
                         //로그인 버튼의 text를 입력
